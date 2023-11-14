@@ -1,4 +1,4 @@
-# Gene-Analysis
+# Genes-Analysis
 ## Data Evaluation:
 
 In this project, we found features that are associated with the "type". The dataset contains 122 samples and 19234 features and in the file of TCGABRCA.pheno we have 122 labels. 
