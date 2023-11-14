@@ -7,7 +7,8 @@ bar chart.
 Moreover, we implemented Pearson Correlation to discover how correlated features were with the results. That is, absolute value of the correlation ratio was calculated and, the output list was sorted. The top 10 features were selected to demonstrate in the following heatmap figure.
 
 ## Clustering:
-Here, we used three model, KMeans, MiniBatchKMeans and, Spectral Clustering that two models, KMeans, MiniBatchKMeans utilized elbow method which is one of the most popular ways to find the optimal number of clusters.To sum up, SLC16A12 feature was one of the mutual features among others, and it was referenced in [1] that is a highly-expressed protein in the kidney and has been reported to participate in the transport of creatine. Visualized data is demonstrated below. The right figure is the actual labeled data, and the left one is the KMeans clustering algorithm predicted result.
+Here, we used three model, KMeans, MiniBatchKMeans and, Spectral Clustering that two models, KMeans, MiniBatchKMeans utilized elbow method which is one of the most popular ways to find the optimal number of clusters.
+To sum up, SLC16A12 feature was one of the mutual features among others, and it was referenced in [1] that is a highly-expressed protein in the kidney and has been reported to participate in the transport of creatine. Visualized data is demonstrated below. The right figure is the actual labeled data, and the left one is the KMeans clustering algorithm predicted result.
 
 ## References:
 
